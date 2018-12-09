@@ -13,8 +13,8 @@
 
 <p> 
 <font size="8" face="arial"color="black">
-    Rabbi<br> 
-    Islam<br>
+    Rabb Islam<br> 
+  
  
  Jogswer, Bheramara, Kushtia, 7040<br>
 </font>
