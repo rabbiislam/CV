@@ -47,12 +47,15 @@ href ="https://sites.google.com/diu.edu.bd/rabbi-islam/home?authuser=0&fbclid=Iw
   
   <p> 
 <font size="8" face="arial"color="black">
+    BSc= Daffodil International University<br>
+    2017 to Present<br>
     HSC= Rajshahi College<br>
+    Group= Science<br>
     Passing Year= 2016<br>
     SSC= Jogswer High School<br>
+    Group= Science<br>
     Passing Year= 2014<br>
-    BSc= Daffodil International University<br>
-    Present<br>
+    
     <br>
 </font>
  </p>
@@ -68,7 +71,8 @@ href ="https://sites.google.com/diu.edu.bd/rabbi-islam/home?authuser=0&fbclid=Iw
   
   <p> 
 <font size="8" face="arial"color="black">
-   Video Editor Anonna Computer<br> 
+   Video Editor Anonna Computer<br>
+   Fiver.com<br>
    
 </font>
  </p>
@@ -83,9 +87,11 @@ href ="https://sites.google.com/diu.edu.bd/rabbi-islam/home?authuser=0&fbclid=Iw
   
   <p> 
 <font size="8" face="arial"color="black">
+   HTML<br>
    JAVA<br>
    C<br>
    OOP<br>
+   
    
 </font>
  </p>
