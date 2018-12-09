@@ -13,7 +13,7 @@
 
 <p> 
 <font size="8" face="arial"color="black">
-    Rabb Islam<br> 
+    Rabbi Islam<br> 
   
  
  Jogswer, Bheramara, Kushtia, 7040<br>
@@ -74,6 +74,22 @@ href ="https://sites.google.com/diu.edu.bd/rabbi-islam/home?authuser=0&fbclid=Iw
  </p>
     <p>  
     
+     
+<center>
+<h1>
+<u> SKILL </u>
+</h1>
+</center>
+  
+  <p> 
+<font size="8" face="arial"color="black">
+   JAVA<br>
+   C<br>
+   OOP<br>
+   
+</font>
+ </p>
+    <p>
        
   <body>
 <center>
