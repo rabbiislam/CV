@@ -56,7 +56,7 @@ href ="https://sites.google.com/diu.edu.bd/rabbi-islam/home?authuser=0&fbclid=Iw
     Group= Science<br>
     Passing Year= 2014<br>
     
-    <br>
+    
 </font>
  </p>
     <p>
